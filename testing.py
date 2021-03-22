@@ -4,8 +4,7 @@ from dotenv import load_dotenv
 
 
 def getSongFeatures(trackID):
-    client_credentials_manager = SpotifyClientCredentials(client_id='ad3b6e58606c4b1d91832ecd0c160557',
-                                                          client_secret='e3f68c9f1c2b42e5a48a1d61e10fa0ab')
+    client_credentials_manager = SpotifyClientCredentials()
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
     data = []
@@ -55,9 +54,9 @@ lz_uri = 'spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25'
 spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 # results = spotify.artist_top_tracks(lz_uri)
 artist = spotify.artist(lz_uri)
-s="King Park"
-a="La Dispute"
-test = spotify.search(q='artist:' + a+' track:'+s)['tracks']['items']
+s = "King Park"
+a = "La Dispute"
+test = spotify.search(q='artist:' + a + ' track:' + s)['tracks']['items']
 
 for t in test:
     print(spotify.track(t['id'])['name'])
@@ -66,5 +65,5 @@ for t in test:
     ...
 print(test)
 # print(spotify.album('2guirTSEqLizK7j9i1MTTZ'))
-#print(getSongFeatures("2YodwKJnbPyNKe8XXSE9V7"))
+print(getSongFeatures("2YodwKJnbPyNKe8XXSE9V7"))
 print(spotify.track("7uvcuAl1IvSqok1JM6IBjX"))
