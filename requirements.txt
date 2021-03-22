@@ -1,4 +1,7 @@
 jupyter
 pandas
-spotipy
+matplotlib
+pylast
 python-dotenv
+tqdm
+spotipy
