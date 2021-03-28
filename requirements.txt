@@ -1,7 +1,9 @@
 jupyter
 pandas
 matplotlib
+seaborn
 pylast
 python-dotenv
 tqdm
 spotipy
+scikit-learn
