@@ -18,10 +18,11 @@ def main():
         username=username,
         password_hash=password_hash,
     )
-    track = network.get_track('Iron Maiden', 'The Nomad')
-    print('Play count:', track.get_playcount())
-    print('Top tags:', track.get_top_tags())
-    print(track.get_wiki_summary())
+    track = network.get_track('Nirvana', 'Love Buzz')
+   # print('Play count:', track.get_playcount())
+   # print('Top tags:', track.get_top_tags())
+   # print(track.get_wiki_summary())
+    print(track.get_top_tags())
     for tag in track.get_top_tags():
         print(tag.item, tag.weight)
 
