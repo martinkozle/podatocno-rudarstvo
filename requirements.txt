@@ -9,3 +9,4 @@ spotipy
 scikit-learn
 numpy
 scipy
+graphviz
