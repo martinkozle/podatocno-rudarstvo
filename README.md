@@ -7,3 +7,4 @@ The repository comes with processed `dataset.csv`, gotten from the output of `da
 Static renderings of the notebooks on [nbviewer.jupyter.org](https://nbviewer.jupyter.org):  
 - [data_gathering.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/data_gathering.ipynb?flush_cache=True)
 - [visualize.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/visualize.ipynb?flush_cache=True)
+- [decision_trees.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/decision_trees.ipynb?flush_cache=True)
