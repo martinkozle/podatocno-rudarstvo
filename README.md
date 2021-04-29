@@ -8,3 +8,4 @@ Static renderings of the notebooks on [nbviewer.jupyter.org](https://nbviewer.ju
 - [data_gathering.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/data_gathering.ipynb?flush_cache=True)
 - [visualize.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/visualize.ipynb?flush_cache=True)
 - [decision_trees.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/decision_trees.ipynb?flush_cache=True)
+- [naive_bayes.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/naive_bayes.ipynb?flush_cache=True)
