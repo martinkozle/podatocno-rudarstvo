@@ -11,3 +11,4 @@ Static renderings of the notebooks on [nbviewer.jupyter.org](https://nbviewer.ju
 - [naive_bayes.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/naive_bayes.ipynb?flush_cache=True)
 - [k_neighbors.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/k_neighbors.ipynb?flush_cache=True)
 - [linear_regression.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/linear_regression.ipynb?flush_cache=True)
+- [logistic_regression.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/logistic_regression.ipynb?flush_cache=True)
