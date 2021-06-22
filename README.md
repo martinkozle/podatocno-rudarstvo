@@ -4,7 +4,7 @@ Data mining course project by [Martin Popovski](https://github.com/martinkozle) 
 The dataset can be found on [Kaggle](https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset).
 The repository comes with processed `dataset.csv`, gotten from the output of `data_gathering.ipynb`
 ## Notebooks
-Static renderings of the notebooks on [nbviewer.jupyter.org](https://nbviewer.jupyter.org):  
+Static renderings of the notebooks on [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/tree/main/):  
 - [data_gathering.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/data_gathering.ipynb?flush_cache=True)
 - [visualize.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/visualize.ipynb?flush_cache=True)
 - [decision_trees.ipynb](https://nbviewer.jupyter.org/github/martinkozle/spotify-song-attributes-EDA/blob/main/decision_trees.ipynb?flush_cache=True)
